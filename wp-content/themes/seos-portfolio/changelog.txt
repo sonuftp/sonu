@@ -1,0 +1,9 @@
+Seos Portfolio changelog
+
+= Version 1.11 August 04 2016 =
+* ADDED: Read More Button Effect
+* ADDED: Default Image
+
+= Version 1.0.9 June 16 2016 =
+* Initial release
+

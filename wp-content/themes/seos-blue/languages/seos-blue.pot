@@ -1,0 +1,250 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Seos Blue\n"
+"POT-Creation-Date: 2016-09-19 00:59+0300\n"
+"PO-Revision-Date: 2016-09-19 00:59+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "404 - Page not found"
+msgstr ""
+
+#: 404.php:16
+msgid ""
+"It seems we cannot find what you are looking for? Perhaps try searching."
+msgstr ""
+
+#: category.php:33 index.php:25 search.php:29 single.php:27
+msgid "Author: "
+msgstr ""
+
+#: category.php:35 index.php:27 search.php:31 single.php:29
+msgid ", "
+msgstr ""
+
+#: category.php:35 index.php:27 search.php:31 single.php:29
+msgid " Posted in: "
+msgstr ""
+
+#: category.php:41 index.php:33 search.php:37 single.php:35
+msgid "Tags: "
+msgstr ""
+
+#: comments.php:10
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:16
+msgid "No Comment"
+msgstr ""
+
+#: comments.php:16
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:16
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:16
+msgid " so far:"
+msgstr ""
+
+#: comments.php:24
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:12 functions.php:75 functions.php:81 functions.php:113
+msgid " "
+msgstr ""
+
+#: footer.php:12
+#, php-format
+msgid "Powered by %s"
+msgstr ""
+
+#. Author URI of the plugin/theme
+#: footer.php:14
+msgid "http://seosthemes.com/"
+msgstr ""
+
+#: functions.php:74
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:80
+msgid "Sidebar Left"
+msgstr ""
+
+#: functions.php:96
+msgid "Menu top"
+msgstr ""
+
+#: functions.php:151
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:157
+msgid "Next page"
+msgstr ""
+
+#: functions.php:158
+msgid "Previous page"
+msgstr ""
+
+#: functions.php:218
+msgid "Hover Color"
+msgstr ""
+
+#: functions.php:235
+msgid "Header Color"
+msgstr ""
+
+#: functions.php:252
+msgid "Nav Hover Color"
+msgstr ""
+
+#: functions.php:268
+msgid "Footer Background Color"
+msgstr ""
+
+#: functions.php:313
+msgid "Read More"
+msgstr ""
+
+#: functions.php:336
+msgid "Seos Blue Read More"
+msgstr ""
+
+#: functions.php:337
+msgid "Seos Blue how to use Premium"
+msgstr ""
+
+#: functions.php:399 functions.php:410
+msgid "Buy Premium"
+msgstr ""
+
+#: functions.php:400 functions.php:427 functions.php:455 functions.php:483
+#: functions.php:511 functions.php:539 functions.php:567 functions.php:595
+#: functions.php:623 functions.php:651 functions.php:679 functions.php:707
+msgid "\tLearn more about Seos Blue Premium. "
+msgstr ""
+
+#: functions.php:426 functions.php:437
+msgid "Seos Blue Slider"
+msgstr ""
+
+#: functions.php:454 functions.php:465
+msgid "Header Logo"
+msgstr ""
+
+#: functions.php:482 functions.php:493
+msgid "Home Page Boxes"
+msgstr ""
+
+#: functions.php:510 functions.php:521
+msgid "Home Page Featured"
+msgstr ""
+
+#: functions.php:538 functions.php:549
+msgid "Menu Colors"
+msgstr ""
+
+#: functions.php:566 functions.php:577
+msgid "Testimonial Colors"
+msgstr ""
+
+#: functions.php:594 functions.php:605
+msgid "Sidebar Colors"
+msgstr ""
+
+#: functions.php:622 functions.php:633
+msgid "Header Options"
+msgstr ""
+
+#: functions.php:650 functions.php:661
+msgid "Back to Top"
+msgstr ""
+
+#: functions.php:678 functions.php:689
+msgid "Footer Options"
+msgstr ""
+
+#: functions.php:706 functions.php:717
+msgid "WooCommerce Options"
+msgstr ""
+
+#: inc/home-page-img.php:10
+msgid "Home Page Featured IMG"
+msgstr ""
+
+#: inc/home-page-img.php:11
+msgid ""
+"Post your Title, IMG and URL. Featured IMG will appear only on your home "
+"page."
+msgstr ""
+
+#: inc/home-page-img.php:21
+msgid "Activate Read More button."
+msgstr ""
+
+#: inc/home-page-img.php:41
+msgid "Your Title Text:"
+msgstr ""
+
+#: inc/home-page-img.php:57
+msgid "Your IMG Upload:"
+msgstr ""
+
+#: inc/home-page-img.php:67
+msgid "Enter your image url"
+msgstr ""
+
+#: search.php:53
+msgid "No results found. Try again. "
+msgstr ""
+
+#: single.php:43
+msgid "<span class=\"meta-nav\">&larr;</span> previous - "
+msgstr ""
+
+#: single.php:45
+msgid "next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Seos Blue"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://seosthemes.com/seos-blue-free-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Seos Blue is the 2015 theme, blue multi-purpose theme with a responsive 2 "
+"column layout. We designed it using a mobile-first approach, meaning your "
+"content takes center-stage, regardless of whether your visitors arrive by "
+"smartphone, tablet, laptop, or desktop computer. Customizer - header image, "
+"background image, background color, hover color, header color, nav hover "
+"color, footer background color, footer options."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SEOS - Tsvetomir Tsvetanov"
+msgstr ""

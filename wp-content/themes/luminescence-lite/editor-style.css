@@ -1,0 +1,12 @@
+/* CSS Document for the post editor */
+@import url( 'responsive.css' );
+@import url( 'style.css' );
+
+body {
+	font-size: 13px;
+	max-width: 725px;
+	background-color: #fff;
+	background-image:none;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 1.375em;
+}

@@ -1,0 +1,129 @@
+Keep a change log to describe all the changes made to program source files. The purpose of this is so that people investigating bugs in the future will know about the changes that might have introduced the bug. Often a new bug can be found by looking at what was recently changed. More importantly, change logs can help you eliminate conceptual inconsistencies between different parts of a program, by giving you a history of how the conflicting concepts arose and who they came from.
+
+Copyright 2012-2013 StyledThemes.com
+
+	
+Changelog Legend:
+----
+
+[+] = Added
+[*] = Changed
+[^] = Moved
+[=] = No Changes
+[x] = Deleted
+[!] = Bugs
+
+Versioning Legend: 1.0.0
+----
+
+MAJOR version when you make major changes,
+MINOR version when you add a features or functions
+PATCH version when you make bug fixes or minor feature adjustments
+
+----
+
+(March 28, 2016) Version 2.0.0 Styled Themes <www.styledthemes.com>
+
+[+] Customizer setting to hide featured image on single and listing page Added
+
+----
+
+(March 4, 2016) Version 1.3.1 Styled Themes <www.styledthemes.com>
+[!] Fixed them preview of customizer preview error.
+
+----
+
+(December 7, 2014) Version 1.3.0 Styled Themes <www.styledthemes.com>
+[*] Removed the wp_title() and added add_theme_support('title-tag')
+[!] Fixed the transalation text domain in few places 
+
+----
+
+(April 1, 2014) Version 1.2.0 Styled Themes <www.styledthemes.com>
+[!] Fixed Bottom area text setting in the theme options not responding to colour changes
+[+] Added Bottom area Heading option setting to change colours
+[*] Changed the theme's text domain from luminescence to luminescence-lite
+[*] Changed function names to include "lite" in the name as it should be
+[*] Updated the language luminescence.pot file
+[*] Updated the theme author to be Styled Themes
+[*] Updated the theme URL
+[*] Updated file release version to all files
+
+----
+
+(November 17, 2013) Version 1.1.9 Styled Themes <www.styledthemes.com>
+[+] Added an RSS option to the Social Networking group.
+[+] Added a function to stop the read more link from jumping to middle of post after clicking.
+[*] Updated the luminescence.pot language file
+
+----
+
+(October 25, 2013) Version 1.1.8 Styled Themes <www.styledthemes.com>
+[*] Fixed one naming issue in the functions.php file and content.php
+
+----
+
+(October 24, 2013) Version 1.1.7 Styled Themes <www.styledthemes.com>
+[+] Added the theme option to choose between content or excerpt
+[*] Changed the theme option to choose your own excerpt length to work with the new feature
+[*] Updated the luminescence.pot language file
+
+----
+
+(October 17, 2013) Version 1.0.7 Styled Themes <www.styledthemes.com>
+[x] Removed duplicate code
+[*] Changed the names of two functions in the functions.php file.
+[!] Fixed an issue of user defined excerpt length not changing
+
+----
+
+(October 15, 2013) Version 1.0.6 Styled Themes <www.styledthemes.com>
+[*] Changed the way post summaries are displayed by using Excerpts instead
+[+] Added support for custom excerpts on posts
+[+] Added theme option to determine excerpt length
+[+] Added Instagram to the social icons
+[x] Deleted extra theme options link from appearance menu group
+[!] Fixed wrong language domain for copyright label in options
+[*] Updated the luminescence.pot language file
+
+----
+
+(October 13, 2013) Version 1.0.5 Styled Themes <www.styledthemes.com>
+[+] Added meta title to front page which was missing
+
+----
+
+(October 9, 2013) Version 1.0.4 Styled Themes <www.styledthemes.com>
+[*] Changed the form button styling to match the Pro version styling
+[*] Logo site title and tagline now centers in the sidebar column
+[+] Added the ability to show a date button when no featured image is used
+
+----
+
+(September 26, 2013) Version 1.0.3 Styled Themes <www.styledthemes.com>
+[+] Added new feature to allow different logo and site title styles
+[*] Updated the language luminescence.pot file
+
+----
+
+(September 25, 2013) Version 1.0.2 Styled Themes <www.styledthemes.com>
+[*] Changed post titles to say Untitled if no title is entered
+[*] Updated the searchform.php file action url
+[*] Updated the language luminescence.pot file
+
+----
+
+(September 24, 2013) Version 1.0.1 Styled Themes <www.styledthemes.com>
+[!] Fixed a language issue where translations were not available using the luminescence text domain
+[*] Updated the language luminescence.pot file
+[*] Updated the search-loop.php file
+[x] Removed the content-search.php file
+[!] Fixed comments not showing on pages
+[+] Added css for extra long words for word wrap.
+
+----
+
+(September 18, 2013) Version 1.0.0 Styled Themes <www.styledthemes.com>
+Initial Release
+
+
